@@ -45,7 +45,7 @@ export default function FooterSection() {
                   href="tel:+919876543210"
                   className="hover:text-amber-500 transition-colors"
                 >
-                  +91 98765 43210
+                  +91 00000 11111
                 </a>
               </p>
               <p className="flex items-center">
